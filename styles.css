@@ -1,0 +1,46 @@
+body
+    {
+    margin: 5% 10%;
+    font-family: Arial, sans-serif;
+    font-size: 100%;
+    background-color: antiquewhite;
+    }
+
+h1
+    {
+    margin-left: 0;
+    border: 2px black solid;
+    padding: 2%;
+    color: Purple;
+    background-color: white;
+    font-family: Marko One;
+}
+
+h2{
+    margin-left: 0;
+    color: deeppink;
+}
+
+nav{
+    margin:0;
+    background-color: antiquewhite;
+    border-top: solid 2px;
+    border-bottom: solid 2px;
+    padding: 10px 20px;
+    font-size: 1,4em;
+}
+
+ul{
+    list-style-type: none;
+    padding: 25px;
+    margin: 0;
+    text-align: center;
+}
+
+
+img 
+    {
+    text-align: center;
+    width: 50%;
+        
+    }
